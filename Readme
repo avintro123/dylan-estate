@@ -1,0 +1,24 @@
+# Dylan Estate Website
+
+Welcome to the Dylan Estate website project. This project was created as part of an internship for Indofo. It involves a real estate website built using Next.js. The project includes features for listing properties, uploading images, and viewing a confirmation page after successfully listing a property.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Components](#components)
+  - [Navbar](#navbar)
+  - [Image Upload Page](#image-upload-page)
+  - [Confirmation Page](#confirmation-page)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+To get started with this project, you need to have Node.js and npm installed on your local machine. Then, follow these steps:
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/avintro123/dylan-estate
+```
