@@ -23,14 +23,16 @@ To get started with this project, you need to have Node.js and npm installed on 
 git clone https://github.com/avintro123/dylan-estate
 ```
 
-2. Navigate to the project directory
+2.  live preview: https://app.netlify.com/sites/papaya-starlight-225fcd/deploys/668fef115ddb590089e615fc?cta=true
 
-3. Install the dependencies
+3.  Navigate to the project directory
 
-4. Navbar
-   The Navbar component provides navigation links to different sections of the website. It highlights the current active tab by underlining it.
+4.  Install the dependencies
 
-5. Navbar
-   The Navbar component provides navigation links to different sections of the website. It highlights the current active tab by underlining it.
+5.  Navbar
+    The Navbar component provides navigation links to different sections of the website. It highlights the current active tab by underlining it.
+
+6.  Navbar
+    The Navbar component provides navigation links to different sections of the website. It highlights the current active tab by underlining it.
 
 any many more things
