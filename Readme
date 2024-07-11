@@ -22,3 +22,15 @@ To get started with this project, you need to have Node.js and npm installed on 
 ```bash
 git clone https://github.com/avintro123/dylan-estate
 ```
+
+2. Navigate to the project directory
+
+3. Install the dependencies
+
+4. Navbar
+   The Navbar component provides navigation links to different sections of the website. It highlights the current active tab by underlining it.
+
+5. Navbar
+   The Navbar component provides navigation links to different sections of the website. It highlights the current active tab by underlining it.
+
+any many more things
